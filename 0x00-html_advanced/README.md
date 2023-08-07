@@ -1,6 +1,6 @@
 # 0x00. Advanced HTML
 
-<img src="meme.jpg">
+<img src="images/meme.jpg">
 
 ## Welcome!
 
@@ -67,9 +67,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## Project Sitemap
 
-<img src="projectSitemap.png">
+<img src="images/projectSitemap.png">
 
 ## Wireframe of Techium project
 
-<img src="wireFrame.png">
+<img src="images/wireFrame.png">
 
