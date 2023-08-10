@@ -2,7 +2,7 @@
 
 <img src="meme.jpg">
 
-In this project, you will analyze this website <a href="https://dev-tools.alx-tools.com/">https://dev-tools.alx-tools.com/</a>
+In this project, you will analyse this website <a href="https://dev-tools.alx-tools.com/">https://dev-tools.alx-tools.com/</a>
 
 ## Resources
 <b>Read or watch:</b>
