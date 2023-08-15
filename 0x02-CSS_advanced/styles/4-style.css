@@ -1,6 +1,6 @@
 /*
     First we create custom properties in root.
-    Then we apply those custom properties to body tag.
+    Then we apply those custom properties to body tag and headings.
 */
 
 :root {
