@@ -1,5 +1,5 @@
 /*
-    Created new declaration. Changed width & margin.
+    Adding padding
 */
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
@@ -472,4 +472,8 @@ a:active {
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-family-title);
     font-weight: var(--font-weight-bold);
+}
+
+.footer {
+    padding: var(--footer-padding);
 }
