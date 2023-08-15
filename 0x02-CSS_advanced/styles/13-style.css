@@ -2,7 +2,7 @@
     We first ensured that the  declaration targeting anchor elements only targeted those containing a hyperlink
     Then targeted the visited state for the link and Italicised the text
     Then targeted the hover state for the link to make it underline when hovered.
-    Finally once a user clicks on the links we made it so that the colour changes.
+    Finally once a user clicks on the links we made it so that the background colour changes.
 */
 
 :root {
@@ -58,7 +58,7 @@ a:hover {
 }
 
 a:active {
-    color: var(--color-light-grey);
+    background-color: var(--color-light-grey);
 }
 
 .visually-hidden {
