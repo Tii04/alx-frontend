@@ -1,3 +1,8 @@
+/*In this task we change the scroll behaviour.
+  From instanly moving from clicking a link, to smoothly animating the transition
+  when the link navigates to a section on the page.
+  */
+
 html {
     scroll-behavior: smooth;
 }
